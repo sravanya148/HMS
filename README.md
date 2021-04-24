@@ -1,2 +1,4 @@
 # HMS
-Hoatel Management System
+Hostel Management System
+Hello!
+Welcome to HMS
